@@ -11,6 +11,7 @@ public class PRAK105_2410817220023_ClarissaDheaAllisya {
 
         double volume = PI * radius * radius * height;
 
-        System.out.printf("Volume tabung dengan jari-jari %.1f cm dan tinggi %.1f cm adalah %.3f m3%n", radius, height, volume);
+        System.out.printf("Volume tabung dengan jari-jari %.1f cm dan tinggi %.1f cm adalah %.3f m3", radius, height, volume);
     }
+
 }
